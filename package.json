@@ -1,0 +1,17 @@
+{
+  "name": "wd201-test",
+  "version": "1.0.0",
+  "description": "for learning npm install",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+
+  },
+  "author": "deepthi manthena <manthena.deepthi@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.27.0",
+    "minimist": "^1.2.7"
+  }
+}
